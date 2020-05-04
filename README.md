@@ -12,7 +12,7 @@ This repository contains an example of running the [Arduino ChainableLED sketch]
 1. Import this application:
 
     ```
-    $ mbed import https://github.com/janjongboom/mbed-arduino-mashup
+    $ mbed import https://github.com/janjongboom/arduino-mbed-mashup
     ```
 
 1. Build and flash the application:
